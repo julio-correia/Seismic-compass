@@ -1,2 +1,2 @@
-# Seismmic-compass
+# Seismic-compass
 Seismic data - direction determination by least square method
